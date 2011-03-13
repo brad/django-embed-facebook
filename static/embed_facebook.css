@@ -1,0 +1,10 @@
+.sohailerror { border:1px solid #eee; background:#f9f9f9; padding:10px; margin-bottom:15px;}
+.sohailfbbox { margin:0 0 25px 0; padding:0; font-family: 'lucida grande', tahoma, verdana; font-size: 12px; line-height:18px; border: 1px solid #C6CEDD; border-top-color:#315C99; }
+#content .sohailfbbox a, .sohailfbbox a { color:#3B5998;text-decoration:none; }
+#content .sohailfbbox a:hover, .sohailfbbox a:hover { color:#3B5998;text-decoration:underline; }
+.sohailfbbox a img { margin: 8px 12px; }
+.sohailfbboxhead { margin: 0; padding: 10px; font-size: 17px; border-bottom: 1px solid #D8DFEA; background: #EDEFF4; height:40px; }
+.sohailfbboxhead span { margin: 0; padding: 0px; font-size: 12px; }
+.sohailfbboxbody { margin: 0; padding: 12px 10px 8px 10px; }
+.sohailfbboxinfo { margin: 0 0 0 10px; padding: 10px; float:right; width:250px; border:1px solid #D8DFEA; background:#EDEFF4; tex-align:right; font-size:11px; }
+#content .sohailfbthumb, .fbalbumpics .sohailfbthumb { border:1px solid #ccc; padding:4px; margin-right:6px; width:130px; height:98px; }
